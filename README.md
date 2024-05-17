@@ -1,6 +1,6 @@
 Holaa, que tal,
 Primero, asegúrate de tener instalados los siguientes programas: Flutter 2.0.0 o superiorDart 2.12.0 o superior
-Segundo: Clona este repositorio: git clone https://github.com/tuusuario/mi_app_salud.git
+Segundo: Clona este repositorio: git clone https://github.com/SantiagoPachecoP/mi_app_salud.git
  * Entra al directorio del proyecto: cd mi_app_salud
  * Instala las dependencias: flutter pub get
 Tercero: Conecta un dispositivo o inicia un emulador.
